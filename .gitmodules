@@ -1,3 +1,6 @@
 [submodule "Small Projects/4-Social Links Profile"]
 	path = Small Projects/4-Social Links Profile
 	url = https://github.com/agni-tejas/4-Social-Links-Profile
+[submodule "Small Projects/5-Blog Preview Card"]
+	path = Small Projects/5-Blog Preview Card
+	url = https://github.com/agni-tejas/5-Blog-preview-card
