@@ -4,3 +4,6 @@
 [submodule "Small Projects/5-Blog Preview Card"]
 	path = Small Projects/5-Blog Preview Card
 	url = https://github.com/agni-tejas/5-Blog-preview-card
+[submodule "Small Projects/5-Italian Pizza Menu"]
+	path = Small Projects/5-Italian Pizza Menu
+	url = https://github.com/agni-tejas/6-Italian-Pizza-Menu
