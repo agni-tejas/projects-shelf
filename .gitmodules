@@ -10,3 +10,6 @@
 [submodule "Small Projects/6-Italian Pizza Menu"]
 	path = Small Projects/6-Italian Pizza Menu
 	url = https://github.com/agni-tejas/6-Italian-Pizza-Menu
+[submodule "Small Projects/7-Split landing page"]
+	path = Small Projects/7-Split landing page
+	url = https://github.com/agni-tejas/7-Split-landing-page
