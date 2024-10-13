@@ -16,3 +16,9 @@
 [submodule "Small Projects/8-Expanding Cards"]
 	path = Small Projects/8-Expanding Cards
 	url = https://github.com/agni-tejas/8-Expanding-Cards
+[submodule "Small Projects/Small Projects/9-Pig Dice Game"]
+	path = Small Projects/Small Projects/9-Pig Dice Game
+	url = https://github.com/agni-tejas/9-Pig-Dice-Game
+[submodule "Small Projects/9-Pig Dice Game"]
+	path = Small Projects/9-Pig Dice Game
+	url = https://github.com/agni-tejas/9-Pig-Dice-Game
