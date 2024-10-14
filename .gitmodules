@@ -22,3 +22,9 @@
 [submodule "Small Projects/9-Pig Dice Game"]
 	path = Small Projects/9-Pig Dice Game
 	url = https://github.com/agni-tejas/9-Pig-Dice-Game
+[submodule "Small Projects/9-Guess My Number Game"]
+	path = Small Projects/9-Guess My Number Game
+	url = https://github.com/agni-tejas/10-Guess-My-Number
+[submodule "Small Projects/10-Guess My Number Game"]
+	path = Small Projects/10-Guess My Number Game
+	url = https://github.com/agni-tejas/10-Guess-My-Number
