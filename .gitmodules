@@ -28,3 +28,6 @@
 [submodule "Small Projects/10-Guess My Number Game"]
 	path = Small Projects/10-Guess My Number Game
 	url = https://github.com/agni-tejas/10-Guess-My-Number
+[submodule "Small Projects/11-Product Review Card"]
+	path = Small Projects/11-Product Review Card
+	url = https://github.com/agni-tejas/11-Product-Review-Card
