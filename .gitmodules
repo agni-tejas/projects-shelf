@@ -31,3 +31,6 @@
 [submodule "Small Projects/11-Product Review Card"]
 	path = Small Projects/11-Product Review Card
 	url = https://github.com/agni-tejas/11-Product-Review-Card
+[submodule "Small Projects/04-Social Links Profile"]
+	path = Small Projects/04-Social Links Profile
+	url = https://github.com/agni-tejas/4-Social-Links-Profile
