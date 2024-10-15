@@ -43,3 +43,6 @@
 [submodule "Small Projects/07 Split landing page"]
 	path = Small Projects/07 Split landing page
 	url = https://github.com/agni-tejas/7-Split-landing-page
+[submodule "Small Projects/08 Expanding Cards"]
+	path = Small Projects/08 Expanding Cards
+	url = https://github.com/agni-tejas/8-Expanding-Cards
