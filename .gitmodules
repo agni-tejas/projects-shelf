@@ -49,3 +49,6 @@
 [submodule "Small Projects/09 Pig Dice Game"]
 	path = Small Projects/09 Pig Dice Game
 	url = https://github.com/agni-tejas/9-Pig-Dice-Game
+[submodule "Small Projects/12-Profile Card Component"]
+	path = Small Projects/12-Profile Card Component
+	url = https://github.com/agni-tejas/12-Profile-Card-Component
