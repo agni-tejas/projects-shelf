@@ -52,3 +52,6 @@
 [submodule "Small Projects/12-Profile Card Component"]
 	path = Small Projects/12-Profile Card Component
 	url = https://github.com/agni-tejas/12-Profile-Card-Component
+[submodule "Small Projects/13-Blurry Loading"]
+	path = Small Projects/13-Blurry Loading
+	url = https://github.com/agni-tejas/13-Blurry-Loading
