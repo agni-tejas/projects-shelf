@@ -58,3 +58,6 @@
 [submodule "Small Projects/14-Password Generator"]
 	path = Small Projects/14-Password Generator
 	url = https://github.com/agni-tejas/14-Password-Generator
+[submodule "Small Projects/15-Github Profiles"]
+	path = Small Projects/15-Github Profiles
+	url = https://github.com/agni-tejas/15-Github-Profiles
