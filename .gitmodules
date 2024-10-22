@@ -64,3 +64,6 @@
 [submodule "Small Projects/16-Live User Filter"]
 	path = Small Projects/16-Live User Filter
 	url = https://github.com/agni-tejas/16-Live-User-Filter
+[submodule "Small Projects/17-Testimonial Box Switcher"]
+	path = Small Projects/17-Testimonial Box Switcher
+	url = https://github.com/agni-tejas/17-Testimonial-Box-Switcher
