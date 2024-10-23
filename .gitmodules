@@ -67,3 +67,6 @@
 [submodule "Small Projects/17-Testimonial Box Switcher"]
 	path = Small Projects/17-Testimonial Box Switcher
 	url = https://github.com/agni-tejas/17-Testimonial-Box-Switcher
+[submodule "Small Projects/18-Movie Overview App"]
+	path = Small Projects/18-Movie Overview App
+	url = https://github.com/agni-tejas/18-Movie-Overview-App
