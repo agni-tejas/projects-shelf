@@ -73,3 +73,6 @@
 [submodule "Small Projects/19-Double Vertical Slider"]
 	path = Small Projects/19-Double Vertical Slider
 	url = https://github.com/agni-tejas/19-Double-Vertical-Slider
+[submodule "Small Projects/20-Hoverboard"]
+	path = Small Projects/20-Hoverboard
+	url = https://github.com/agni-tejas/20-Hoverboard
