@@ -76,3 +76,6 @@
 [submodule "Small Projects/20-Hoverboard"]
 	path = Small Projects/20-Hoverboard
 	url = https://github.com/agni-tejas/20-Hoverboard
+[submodule "Small Projects/21-Drink Water"]
+	path = Small Projects/21-Drink Water
+	url = https://github.com/agni-tejas/21-Drink-Water
