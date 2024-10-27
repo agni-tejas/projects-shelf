@@ -79,3 +79,6 @@
 [submodule "Small Projects/21-Drink Water"]
 	path = Small Projects/21-Drink Water
 	url = https://github.com/agni-tejas/21-Drink-Water
+[submodule "Small Projects/22-3D Boxes Background"]
+	path = Small Projects/22-3D Boxes Background
+	url = https://github.com/agni-tejas/22-3D-Boxes-Background
