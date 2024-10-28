@@ -82,3 +82,6 @@
 [submodule "Small Projects/22-3D Boxes Background"]
 	path = Small Projects/22-3D Boxes Background
 	url = https://github.com/agni-tejas/22-3D-Boxes-Background
+[submodule "Small Projects/23-Animated Countdown"]
+	path = Small Projects/23-Animated Countdown
+	url = https://github.com/agni-tejas/23-Animated-Countdown
