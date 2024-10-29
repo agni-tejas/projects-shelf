@@ -85,3 +85,6 @@
 [submodule "Small Projects/23-Animated Countdown"]
 	path = Small Projects/23-Animated Countdown
 	url = https://github.com/agni-tejas/23-Animated-Countdown
+[submodule "Small Projects/24-Incrementing Counter"]
+	path = Small Projects/24-Incrementing Counter
+	url = https://github.com/agni-tejas/24-Incrementing-Counter
